@@ -1,0 +1,14 @@
+#ishi1{
+	background: white ;
+}
+#ishi
+{
+	background-image: url("ishi.png");
+	background-size: cover;
+	background-position:top;
+	
+
+}
+ #ishi2{
+ 	font-weight: 500;
+ }
